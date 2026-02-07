@@ -1,1 +1,1 @@
-
+Hong, Y., Inuiguchi, M. (2024). Comparative Study of Methods for Estimating Interval Priority Weights Focusing on the Accuracy in Selecting the Best Alternative. In: Torra, V., Narukawa, Y., Kikuchi, H. (eds) Modeling Decisions for Artificial Intelligence. MDAI 2024. Lecture Notes in Computer Science(), vol 14986. Springer, Cham. https://doi.org/10.1007/978-3-031-68208-7_6
