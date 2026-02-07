@@ -1,1 +1,1 @@
-
+Inuiguchi, M., Hong, Y., Innan, S. (2025). Modifying Submodels in Estimation Methods Using Minimum Possible Ranges for Interval Priority Weights Under a Crisp Pairwise Comparison Matrix. In: Huynh, VN., Honda, K., Le, B., Inuiguchi, M., Huynh, H.T. (eds) Integrated Uncertainty in Knowledge Modelling and Decision Making. IUKM 2025. Lecture Notes in Computer Science(), vol 15586. Springer, Singapore. https://doi.org/10.1007/978-981-96-4603-6_2
